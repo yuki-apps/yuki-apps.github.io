@@ -1,1 +1,1 @@
-# arujh268549.github.io
+google.com, pub-4833504589023750, DIRECT, f08c47fec0942fa0
