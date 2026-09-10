@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>サポート | 損益・資産管理（KakeiYosoku）</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
+    line-height: 1.8;
+    color: #222;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 32px 20px 80px;
+    background: #fafafa;
+  }
+  h1 {
+    font-size: 1.5em;
+    border-bottom: 2px solid #4a6fa5;
+    padding-bottom: 12px;
+  }
+  h2 {
+    font-size: 1.15em;
+    margin-top: 2em;
+    color: #2c4a6e;
+  }
+  p, li {
+    font-size: 0.95em;
+  }
+  a.button {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 12px 24px;
+    background: #4a6fa5;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  a.button:hover {
+    background: #395a86;
+  }
+  a {
+    color: #4a6fa5;
+  }
+  footer {
+    margin-top: 4em;
+    font-size: 0.8em;
+    color: #999;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<h1>サポート</h1>
+
+<p>
+「損益・資産管理（KakeiYosoku）」をご利用いただきありがとうございます。
+不具合のご報告、ご要望、その他お問い合わせは、以下のフォームよりご連絡ください。
+</p>
+
+<a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSedzKKNPzVG2vgzzhxxdU0g_EgVCRIvxaP_e7lAalBUxBZnGA/viewform?usp=header">お問い合わせフォームを開く</a>
+
+<h2>よくあるご質問</h2>
+
+<p><strong>Q. データはどこに保存されますか？</strong><br>
+A. 記録した収入・支出・資産・負債のデータは、すべてお使いの端末内に保存されます。外部サーバーへの送信は行っていません。</p>
+
+<p><strong>Q. 広告を消すにはどうすればいいですか？</strong><br>
+A. アプリ内の「設定」タブから「広告を非表示にする」を選択し、購入手続きを行ってください。一度購入すれば、以降は広告非表示の状態が保持されます。</p>
+
+<p><strong>Q. 機種変更した場合、購入した「広告非表示」は引き継がれますか？</strong><br>
+A. 「設定」タブの「購入を復元」から、同じApple IDでサインインしていれば復元できます。</p>
+
+<p><strong>Q. データをバックアップできますか？</strong><br>
+A. 現在、データのエクスポート機能は提供していません。今後のアップデートで対応を検討しています。</p>
+
+<h2>関連リンク</h2>
+<ul>
+  <li><a href="./privacy.html">プライバシーポリシー</a></li>
+</ul>
+
+<footer>
+  © yukiapp
+</footer>
+
+</body>
+</html>
